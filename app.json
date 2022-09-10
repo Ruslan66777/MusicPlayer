@@ -1,6 +1,6 @@
 {
-    "name": "Music Player",
-    "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
+    "name": "Thor Music Robot",
+    "description": "Marvel Tarafından yaradılan bir Music botu",
     "logo": "https://github.com/AsmSafone/MusicPlayer/raw/master/theme/logo.png",
     "stack": "container",
     "keywords": [
