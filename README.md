@@ -108,8 +108,8 @@ $ sudo docker run musicplayer
 
 Command | Description
 :--- | :---
-• !ping | Check if alive or not
-• !start / !help | Show the help for commands
+• !ping | Botun islediyini yoxla
+• !start / !help | Kodlarda kömek al
 • !mode / !switch | Switch the stream mode (audio/video)
 • !p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
 • !radio / !stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
@@ -132,6 +132,7 @@ Command | Description
 
 ```text
 en    English
+Tr    Turkish
 ```
 
 ## 💜 <a name="contribute"></a>Contribute
